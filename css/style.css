@@ -464,7 +464,7 @@ a:visited {
 
 #bts1 {
 	background: #fff url('../images/iStock_Sun2.jpg') no-repeat center bottom fixed;
-        height: 600px;
+        height: 700px;
 	background-size: cover;
         max-width:100%;
        	-webkit-background-size: cover;
@@ -1894,8 +1894,12 @@ body.ismobile #work .gallery-item img {
 	background: #fff;
 	color: #999999;
 	font-size: 12px;
-	text-transform: uppercase;
-	padding: 40px 0;
+/*	text-transform: uppercase;  */
+	padding-top:20px;
+        padding-right:0px;
+        padding-bottom:20px;
+        padding-left:0px;
+        height:52px;
 }
 #bts-footer .left {
 	text-align: left;
