@@ -8,7 +8,7 @@ body {
 	background-color:#fff;
 }
 img {
-	max-width: 100%;
+       max-width: 100%; 
 }
 a:link {
 	color: #c32c2c;
@@ -283,9 +283,8 @@ a:visited {
 	}
 .carousel-inner {
         margin-top:20px;
-        width:290px;
+        width:380px;
         margin-left:15px;
-        
         }
 .budslide {
         margin-top:5px;
@@ -294,6 +293,7 @@ a:visited {
 .budbutton {
         margin-left:35px;
         }
+
 }
 
 /* General Styles */
@@ -1302,7 +1302,7 @@ body.ismobile #work .gallery-item img {
 	position: absolute;
 	z-index: 99999;
 	display: block;
-	width: 100%;
+	width: 100%;n
 	text-align: center;
 	top: 0;
 	left: 0;
@@ -1940,7 +1940,7 @@ body.ismobile #work .gallery-item img {
 @media (max-width: 767px) {
 	#bts-footer .left, #bts-footer .right {
 		text-align: center;
-	}
+               }
 }
 
 
